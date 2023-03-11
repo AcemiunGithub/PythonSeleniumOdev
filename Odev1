@@ -29,6 +29,9 @@ percentage="%"
 perc_completion=25
 4.Kurs programında yer alan ders programı,değerlendirme ve ödevlerin yanında yer alan ve tamamlayıp tamalamadığımızı gösteren kutucuklar arka planda boolean değişkenlerde tutulmaktadır.
 degerlendirme=false
+
+5.Eğitmen listesi list tüürnde bir veri tipidir
+ educator=["Engin Demiroğ","Halit Enes Kalaycı"]
 ####################################################
 Kodlama.io sitesinde kullanılan şart blokları :
 percentageCompletion=0
